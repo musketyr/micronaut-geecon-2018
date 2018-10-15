@@ -53,4 +53,11 @@ public class Product {
 }
 ----
 
+== Function
+
+=== Client Configuration
+
+Dummy products backend: `https://private-046fd-winterboots.apiary-mock.com`
+
+
 NOTE: Insert the class into IntelliJ and generate getters, `equals`, `hashCode` and ``.
